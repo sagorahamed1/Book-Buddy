@@ -62,3 +62,17 @@ This project uses `AppConfig` for environment configuration in lib/core/app_conf
 
 
 
+https://www.loom.com/share/070423c77351479d9e3e7dc977cd27d0
+
+
+
+
+<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 16 - 2026-05-22 at 17 59 50" src="https://github.com/user-attachments/assets/753f23a2-09f1-4aa8-82c5-4349ff321d97" />
+<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 16 - 2026-05-22 at 18 00 07" src="https://github.com/user-attachments/assets/a5883a4b-4913-4f10-a6db-1095f7dae8f0" />
+<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 16 - 2026-05-22 at 18 04 21" src="https://github.com/user-attachments/assets/4c19d0ab-0028-489b-8496-5d8c3f42527b" />
+
+
+
+
+
+
