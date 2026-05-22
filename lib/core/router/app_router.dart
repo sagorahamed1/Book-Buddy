@@ -6,6 +6,7 @@ import '../../features/favorites/presentation/pages/favorites_page.dart';
 
 class AppRouter {
 
+
   /// Route name
   static const String book   = '/book';
   static const String bookDetail = 'bookDetail';
