@@ -7,17 +7,17 @@ import '../../features/favorites/presentation/pages/favorites_page.dart';
 class AppRouter {
 
   /// Route name
-  static const String bookList   = 'bookList';
+  static const String book   = '/book';
   static const String bookDetail = 'bookDetail';
-  static const String favorites  = 'favorites';
+  static const String favorites  = '/favorites';
 
   static final GoRouter router = GoRouter(
-    initialLocation: '/',
+    initialLocation: book,
     routes: [
 
       GoRoute(
-        path: '/',
-        name: bookList,
+        path: book,
+        name: book,
         builder: (context, state) => const BookListPage(),
       ),
 
@@ -31,7 +31,7 @@ class AppRouter {
       ),
 
       GoRoute(
-        path: '/favorites',
+        path: favorites,
         name: favorites,
         builder: (context, state) => const FavoritesPage(),
       ),
